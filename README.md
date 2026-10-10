@@ -22,6 +22,3 @@ Se puede cambiar el número de grupos con `python modelo_no_supervisado.py --gru
 ## Limitación
 El dataset es sintético, no son mediciones oficiales ni datos reales del tráfico. Los grupos solo describen los datos simulados.
 
-## Enlaces
-Repositorio: https://github.com/adriangarr/sistema-inteligente-de-rutas
-Video: añadir el enlace real después de grabarlo.
