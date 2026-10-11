@@ -14,6 +14,8 @@ Explorar patrones en viajes simulados de transporte usando K-Means.
 ## Ejecución
 ```bash
 pip install -r requirements.txt
+python -m venv venv
+.\venv\Scripts\Activate.ps1
 python modelo_no_supervisado.py
 python -m unittest discover -s pruebas -v
 ```
